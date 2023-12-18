@@ -73,6 +73,4 @@ Mithilfe der Exzentrizitäten des ungerichteten Graphen können Durchmesser und 
 
 ## Mitwirken
 
-Wir begrüßen Beiträge zur weiteren Entwicklung des Projekts.
-
-Für Fragen oder Anregungen können Sie uns unter [Mail](mailto:atillanedim42@gmail.com) erreichen.
+Für Fragen oder Anregungen können Sie mich unter [Mail](mailto:atillanedim42@gmail.com) erreichen.
